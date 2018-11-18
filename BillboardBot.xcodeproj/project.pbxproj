@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7ED5EDAC0C6AF9DBDA7095A6 /* Pods_BillboardBot.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F7CE0B8C1736FE7EAB1469E /* Pods_BillboardBot.framework */; };
 		8479627921A181EF001F9E4F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479627821A181EF001F9E4F /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,8 +24,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0F7CE0B8C1736FE7EAB1469E /* Pods_BillboardBot.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BillboardBot.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		12C6FE28FC7799F5B672A972 /* Pods-BillboardBot.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BillboardBot.release.xcconfig"; path = "Target Support Files/Pods-BillboardBot/Pods-BillboardBot.release.xcconfig"; sourceTree = "<group>"; };
+		1EB6FE8A36C0C5AF150178C2 /* Pods-BillboardBot.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BillboardBot.debug.xcconfig"; path = "Target Support Files/Pods-BillboardBot/Pods-BillboardBot.debug.xcconfig"; sourceTree = "<group>"; };
 		8479627521A181EF001F9E4F /* BillboardBot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BillboardBot; sourceTree = BUILT_PRODUCTS_DIR; };
 		8479627821A181EF001F9E4F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8479627F21A18523001F9E4F /* BillboardSwiftLibrary.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = BillboardSwiftLibrary.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7ED5EDAC0C6AF9DBDA7095A6 /* Pods_BillboardBot.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -43,6 +49,8 @@
 			children = (
 				8479627721A181EF001F9E4F /* BillboardBot */,
 				8479627621A181EF001F9E4F /* Products */,
+				CAC3E9984CC3CB9D1AB6908C /* Pods */,
+				C03DD87A2792603CF5373BFD /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +70,24 @@
 			path = BillboardBot;
 			sourceTree = "<group>";
 		};
+		C03DD87A2792603CF5373BFD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8479627F21A18523001F9E4F /* BillboardSwiftLibrary.framework */,
+				0F7CE0B8C1736FE7EAB1469E /* Pods_BillboardBot.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CAC3E9984CC3CB9D1AB6908C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1EB6FE8A36C0C5AF150178C2 /* Pods-BillboardBot.debug.xcconfig */,
+				12C6FE28FC7799F5B672A972 /* Pods-BillboardBot.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -69,6 +95,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8479627C21A181EF001F9E4F /* Build configuration list for PBXNativeTarget "BillboardBot" */;
 			buildPhases = (
+				C94AEA3450BFE85AF0581128 /* [CP] Check Pods Manifest.lock */,
 				8479627121A181EF001F9E4F /* Sources */,
 				8479627221A181EF001F9E4F /* Frameworks */,
 				8479627321A181EF001F9E4F /* CopyFiles */,
@@ -113,6 +140,31 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C94AEA3450BFE85AF0581128 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BillboardBot-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		8479627121A181EF001F9E4F /* Sources */ = {
@@ -177,7 +229,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -232,7 +284,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -243,9 +295,11 @@
 		};
 		8479627D21A181EF001F9E4F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1EB6FE8A36C0C5AF150178C2 /* Pods-BillboardBot.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 97XB8J435J;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
@@ -253,9 +307,11 @@
 		};
 		8479627E21A181EF001F9E4F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 12C6FE28FC7799F5B672A972 /* Pods-BillboardBot.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 97XB8J435J;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 			};
