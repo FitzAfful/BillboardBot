@@ -365,16 +365,16 @@ internal extension Client {
             guard let itemFile = item.file, let id = itemFile.id else {
                 return
             }
-			var localVar = files[id]?.reactions
-            localVar = files[id]!.reactions.filter({$0.name != key && $0.user != userID})
-			files[id]?.reactions = localVar!
+			var reactions = files[id]?.reactions
+            reactions = files[id]!.reactions.filter({$0.name != key && $0.user != userID})
+			files[id]?.reactions = reactions!
         case "file_comment":
             guard let id = item.file?.id, let commentID = item.fileCommentID else {
                 return
             }
-			var localVar = files[id]?.comments[commentID]?.reactions
-            localVar = files[id]!.comments[commentID]!.reactions.filter({$0.name != key && $0.user != userID})
-			files[id]?.comments[commentID]?.reactions = localVar!
+			var reactions = files[id]?.comments[commentID]?.reactions
+            reactions = files[id]!.comments[commentID]!.reactions.filter({$0.name != key && $0.user != userID})
+			files[id]?.comments[commentID]?.reactions = reactions!
         default:
             break
         }

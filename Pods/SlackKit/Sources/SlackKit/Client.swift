@@ -231,18 +231,15 @@ public final class Client: WebSocketDelegate {
             }
         }
     }
-    
-    // MARK: - WebSocketDelegate
+
 	
 	public func websocketDidConnect(socket: WebSocketClient) {
-		
 		if let pingInterval = options?.pingInterval {
 			pingRTMServerAt(interval: pingInterval)
 		}
 	}
 	
 	public func websocketDidDisconnect(socket: WebSocketClient, error: Error?) {
-		
 		connected = false
 		webSocket = nil
 		authenticatedUser = nil
@@ -265,4 +262,5 @@ public final class Client: WebSocketDelegate {
 	public func websocketDidReceiveData(socket: WebSocketClient, data: Data) {
 		
 	}
+	
 }
