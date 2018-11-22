@@ -1,4 +1,5 @@
 # BillboardBot
+A Slack Bot built with Swift and based on BillboardSwiftLibrary that gets a particular billboard chart for you when queried
 
 
 ## Basic Usage
@@ -13,7 +14,7 @@ Pull requests are welcome!
 
 Think you found a bug? Create an issue [here](https://github.com/fitzafful/BillboardSwiftLibrary/issues).
 
-Based on [BillboardSwiftLibrary](https://github.com/fitzafful/BillboardSwiftLibrary)
+Based on [BillboardSwiftLibrary](https://github.com/fitzafful/BillboardSwiftLibrary), [SlackKit](https://www.slackkit.co/) and [Heroku-Buildpack-Swift](https://github.com/kylef/heroku-buildpack-swift)
 
 
 ## Author
