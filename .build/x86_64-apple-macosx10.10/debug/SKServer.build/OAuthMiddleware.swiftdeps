@@ -1,0 +1,210 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OAuthMiddleware"
+provides-nominal:
+- "8SKServer15OAuthMiddlewareV"
+provides-member:
+- ["8SKServer15OAuthMiddlewareV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "AuthorizeResponse"
+- !private "FloatLiteralType"
+- !private "HTTPHeaders"
+- !private "Header"
+- !private "IntegerLiteralType"
+- "Middleware"
+- "OAuthConfig"
+- "OAuthMiddleware"
+- "OAuthResponse"
+- "RequestType"
+- !private "Response"
+- "ResponseType"
+- !private "StringLiteralType"
+- "Void"
+- !private "WebAPI"
+depends-member:
+- !private ["8SKServer17AuthorizeResponseV", "code"]
+- !private ["8SKServer17AuthorizeResponseV", "init"]
+- !private ["8SKServer17AuthorizeResponseV", "state"]
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["8SKServer11HTTPHeadersV", "deinit"]
+- !private ["8SKServer11HTTPHeadersV", "init"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["8SKServer10MiddlewareP", "AuthorizeResponse"]
+- !private ["8SKServer10MiddlewareP", "HTTPHeaders"]
+- !private ["8SKServer10MiddlewareP", "Header"]
+- !private ["8SKServer10MiddlewareP", "OAuthResponse"]
+- !private ["8SKServer10MiddlewareP", "Response"]
+- !private ["8SKServer10MiddlewareP", "WebAPI"]
+- ["8SKServer10MiddlewareP", ""]
+- !private ["8SKServer10MiddlewareP", "authed"]
+- !private ["8SKServer10MiddlewareP", "config"]
+- ["8SKServer10MiddlewareP", "respond"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["6SKCore11OAuthConfigV", "clientID"]
+- !private ["6SKCore11OAuthConfigV", "clientSecret"]
+- !private ["6SKCore11OAuthConfigV", "redirectURI"]
+- !private ["6SKCore11OAuthConfigV", "state"]
+- !private ["8SKServer15OAuthMiddlewareV", "AuthorizeResponse"]
+- !private ["8SKServer15OAuthMiddlewareV", "HTTPHeaders"]
+- !private ["8SKServer15OAuthMiddlewareV", "Header"]
+- ["8SKServer15OAuthMiddlewareV", "OAuthConfig"]
+- ["8SKServer15OAuthMiddlewareV", "OAuthResponse"]
+- ["8SKServer15OAuthMiddlewareV", "RequestType"]
+- !private ["8SKServer15OAuthMiddlewareV", "Response"]
+- ["8SKServer15OAuthMiddlewareV", "ResponseType"]
+- ["8SKServer15OAuthMiddlewareV", "Void"]
+- !private ["8SKServer15OAuthMiddlewareV", "WebAPI"]
+- ["8SKServer15OAuthMiddlewareV", "authed"]
+- !private ["8SKServer15OAuthMiddlewareV", "config"]
+- ["8SKServer15OAuthMiddlewareV", "deinit"]
+- ["8SKServer15OAuthMiddlewareV", "init"]
+- ["8SKServer15OAuthMiddlewareV", "respond"]
+- !private ["8SKServer13OAuthResponseV", "init"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["8SKServer11RequestTypeP", "query"]
+- !private ["8SKServer8ResponseV", "deinit"]
+- !private ["8SKServer8ResponseV", "init"]
+- !private ["8SKServer12ResponseTypeP", "init"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["8SKWebAPI03WebB0C", "oauthAccess"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "8SKServer17AuthorizeResponseV"
+- !private "SK"
+- !private "Sb"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "8SKServer11HTTPHeadersV"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- "8SKServer10MiddlewareP"
+- !private "s10MirrorPathP"
+- !private "6SKCore11OAuthConfigV"
+- "8SKServer15OAuthMiddlewareV"
+- !private "8SKServer13OAuthResponseV"
+- !private "Sm"
+- !private "8SKServer11RequestTypeP"
+- !private "8SKServer8ResponseV"
+- !private "8SKServer12ResponseTypeP"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "8SKWebAPI03WebB0C"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/Swifter.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7e8dfc9ffe56941de16729cdd82ecf62"

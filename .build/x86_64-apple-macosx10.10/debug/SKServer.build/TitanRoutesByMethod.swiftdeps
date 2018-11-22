@@ -1,0 +1,161 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["8SKServer5TitanC", ""]
+- ["8SKServer5TitanC", "get"]
+- ["8SKServer5TitanC", "get"]
+- ["8SKServer5TitanC", "post"]
+- ["8SKServer5TitanC", "post"]
+- ["8SKServer5TitanC", "put"]
+- ["8SKServer5TitanC", "put"]
+- ["8SKServer5TitanC", "patch"]
+- ["8SKServer5TitanC", "patch"]
+- ["8SKServer5TitanC", "delete"]
+- ["8SKServer5TitanC", "delete"]
+- ["8SKServer5TitanC", "options"]
+- ["8SKServer5TitanC", "options"]
+- ["8SKServer5TitanC", "head"]
+- ["8SKServer5TitanC", "head"]
+- ["8SKServer5TitanC", "custom"]
+provides-dynamic-lookup:
+depends-top-level:
+- "String"
+- "Titan"
+- "TitanFunc"
+depends-member:
+- !private ["s28CustomDebugStringConvertibleP", "custom"]
+- !private ["s28CustomDebugStringConvertibleP", "delete"]
+- !private ["s28CustomDebugStringConvertibleP", "get"]
+- !private ["s28CustomDebugStringConvertibleP", "head"]
+- !private ["s28CustomDebugStringConvertibleP", "options"]
+- !private ["s28CustomDebugStringConvertibleP", "patch"]
+- !private ["s28CustomDebugStringConvertibleP", "post"]
+- !private ["s28CustomDebugStringConvertibleP", "put"]
+- !private ["s17CustomReflectableP", "custom"]
+- !private ["s17CustomReflectableP", "delete"]
+- !private ["s17CustomReflectableP", "get"]
+- !private ["s17CustomReflectableP", "head"]
+- !private ["s17CustomReflectableP", "options"]
+- !private ["s17CustomReflectableP", "patch"]
+- !private ["s17CustomReflectableP", "post"]
+- !private ["s17CustomReflectableP", "put"]
+- !private ["Se", "custom"]
+- !private ["Se", "delete"]
+- !private ["Se", "get"]
+- !private ["Se", "head"]
+- !private ["Se", "options"]
+- !private ["Se", "patch"]
+- !private ["Se", "post"]
+- !private ["Se", "put"]
+- !private ["SE", "custom"]
+- !private ["SE", "delete"]
+- !private ["SE", "get"]
+- !private ["SE", "head"]
+- !private ["SE", "options"]
+- !private ["SE", "patch"]
+- !private ["SE", "post"]
+- !private ["SE", "put"]
+- !private ["SQ", "custom"]
+- !private ["SQ", "delete"]
+- !private ["SQ", "get"]
+- !private ["SQ", "head"]
+- !private ["SQ", "options"]
+- !private ["SQ", "patch"]
+- !private ["SQ", "post"]
+- !private ["SQ", "put"]
+- !private ["s23ExpressibleByNilLiteralP", "custom"]
+- !private ["s23ExpressibleByNilLiteralP", "delete"]
+- !private ["s23ExpressibleByNilLiteralP", "get"]
+- !private ["s23ExpressibleByNilLiteralP", "head"]
+- !private ["s23ExpressibleByNilLiteralP", "options"]
+- !private ["s23ExpressibleByNilLiteralP", "patch"]
+- !private ["s23ExpressibleByNilLiteralP", "post"]
+- !private ["s23ExpressibleByNilLiteralP", "put"]
+- !private ["8SKServer10HTTPMethodO", "custom"]
+- !private ["8SKServer10HTTPMethodO", "delete"]
+- !private ["8SKServer10HTTPMethodO", "get"]
+- !private ["8SKServer10HTTPMethodO", "head"]
+- !private ["8SKServer10HTTPMethodO", "options"]
+- !private ["8SKServer10HTTPMethodO", "patch"]
+- !private ["8SKServer10HTTPMethodO", "post"]
+- !private ["8SKServer10HTTPMethodO", "put"]
+- !private ["SH", "custom"]
+- !private ["SH", "delete"]
+- !private ["SH", "get"]
+- !private ["SH", "head"]
+- !private ["SH", "options"]
+- !private ["SH", "patch"]
+- !private ["SH", "post"]
+- !private ["SH", "put"]
+- !private ["Sq", "custom"]
+- !private ["Sq", "delete"]
+- !private ["Sq", "get"]
+- !private ["Sq", "head"]
+- !private ["Sq", "options"]
+- !private ["Sq", "patch"]
+- !private ["Sq", "post"]
+- !private ["Sq", "put"]
+- !private ["SY", "custom"]
+- !private ["SY", "delete"]
+- !private ["SY", "get"]
+- !private ["SY", "head"]
+- !private ["SY", "options"]
+- !private ["SY", "patch"]
+- !private ["SY", "post"]
+- !private ["SY", "put"]
+- ["8SKServer5TitanC", "String"]
+- ["8SKServer5TitanC", "TitanFunc"]
+- ["8SKServer5TitanC", "custom"]
+- ["8SKServer5TitanC", "delete"]
+- ["8SKServer5TitanC", "get"]
+- ["8SKServer5TitanC", "head"]
+- ["8SKServer5TitanC", "options"]
+- ["8SKServer5TitanC", "patch"]
+- ["8SKServer5TitanC", "post"]
+- ["8SKServer5TitanC", "put"]
+- !private ["8SKServer5TitanC", "route"]
+- !private ["s21_ObjectiveCBridgeableP", "custom"]
+- !private ["s21_ObjectiveCBridgeableP", "delete"]
+- !private ["s21_ObjectiveCBridgeableP", "get"]
+- !private ["s21_ObjectiveCBridgeableP", "head"]
+- !private ["s21_ObjectiveCBridgeableP", "options"]
+- !private ["s21_ObjectiveCBridgeableP", "patch"]
+- !private ["s21_ObjectiveCBridgeableP", "post"]
+- !private ["s21_ObjectiveCBridgeableP", "put"]
+depends-nominal:
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "8SKServer10HTTPMethodO"
+- !private "SH"
+- !private "Sq"
+- !private "SY"
+- "8SKServer5TitanC"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/Swifter.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5df13f11f72edc86ec3ca2ddf1b5fd02"

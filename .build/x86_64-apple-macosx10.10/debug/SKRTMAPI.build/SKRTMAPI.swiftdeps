@@ -1,0 +1,579 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RTMWebSocket"
+- "RTMAdapter"
+- "RTMDelegate"
+- "SKRTMAPI"
+provides-nominal:
+- "8SKRTMAPI12RTMWebSocketP"
+- "8SKRTMAPI10RTMAdapterP"
+- "8SKRTMAPI11RTMDelegateP"
+- "8SKRTMAPIAAC"
+provides-member:
+- ["8SKRTMAPI12RTMWebSocketP", ""]
+- ["8SKRTMAPI10RTMAdapterP", ""]
+- ["8SKRTMAPI11RTMDelegateP", ""]
+- ["8SKRTMAPIAAC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "*"
+- !private "+"
+- !private "-"
+- !private "/"
+- !private "<"
+- !private "??"
+- "AnyObject"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "CastingPrecedence"
+- !private "Date"
+- !private "DispatchQueue"
+- !private "DispatchTime"
+- "Double"
+- "Error"
+- "Event"
+- "EventType"
+- !private "JSONSerialization"
+- "RTMAdapter"
+- "RTMDelegate"
+- "RTMOptions"
+- "RTMWebSocket"
+- "SKRTMAPI"
+- !private "SlackError"
+- !private "StarscreamRTM"
+- "String"
+- "StringLiteralType"
+- !private "UInt64"
+- "URL"
+- !private "WebAPI"
+- !private "filterNilParameters"
+- !private "print"
+depends-member:
+- !private ["SK", "Encoding"]
+- !private ["SK", "data"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["SB", "init"]
+- !private ["Sz", "init"]
+- !private ["Sz", "nanosecondsPerSecond"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "Encoding"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "asyncAfter"]
+- !private ["s7CVarArgP", "data"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "jsonObject"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "nanosecondsPerSecond"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "Encoding"]
+- !private ["Sl", "data"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["SL", "Encoding"]
+- !private ["SL", "data"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["SL", "nanosecondsPerSecond"]
+- !private ["SL", "now"]
+- !private ["SL", "slackTimestamp"]
+- !private ["s28CustomDebugStringConvertibleP", "Encoding"]
+- !private ["s28CustomDebugStringConvertibleP", "asyncAfter"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "jsonObject"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "slackTimestamp"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "unknown"]
+- !private ["s29CustomPlaygroundQuickLookableP", "Encoding"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "data"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "nanosecondsPerSecond"]
+- !private ["s29CustomPlaygroundQuickLookableP", "slackTimestamp"]
+- !private ["s17CustomReflectableP", "Encoding"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "data"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "nanosecondsPerSecond"]
+- !private ["s17CustomReflectableP", "slackTimestamp"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s17CustomReflectableP", "unknown"]
+- !private ["s23CustomStringConvertibleP", "Encoding"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "asyncAfter"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "jsonObject"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "nanosecondsPerSecond"]
+- !private ["s23CustomStringConvertibleP", "slackTimestamp"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "utf8"]
+- !private ["10Foundation4DateV", "init"]
+- !private ["10Foundation4DateV", "slackTimestamp"]
+- !private ["Se", "Encoding"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "data"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "nanosecondsPerSecond"]
+- !private ["Se", "slackTimestamp"]
+- !private ["Se", "subscript"]
+- !private ["Se", "unknown"]
+- !private ["SD", "subscript"]
+- !private ["So18OS_dispatch_objectC", "asyncAfter"]
+- !private ["So18OS_dispatch_objectC", "main"]
+- !private ["So17OS_dispatch_queueC", "asyncAfter"]
+- !private ["So17OS_dispatch_queueC", "main"]
+- !private ["8Dispatch0A4TimeV", "now"]
+- !private ["Sd", "init"]
+- !private ["SE", "Encoding"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "data"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "nanosecondsPerSecond"]
+- !private ["SE", "slackTimestamp"]
+- !private ["SE", "subscript"]
+- !private ["SE", "unknown"]
+- !private ["SS10FoundationE8EncodingV", "utf8"]
+- !private ["SQ", "Encoding"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "allowFragments"]
+- !private ["SQ", "asyncAfter"]
+- !private ["SQ", "clientJSONError"]
+- !private ["SQ", "data"]
+- ["SQ", "error"]
+- ["SQ", "goodbye"]
+- ["SQ", "hello"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "jsonObject"]
+- !private ["SQ", "main"]
+- !private ["SQ", "nanosecondsPerSecond"]
+- !private ["SQ", "now"]
+- ["SQ", "pong"]
+- !private ["SQ", "rtmConnectionError"]
+- !private ["SQ", "slackTimestamp"]
+- !private ["SQ", "subscript"]
+- ["SQ", "teamMigrationStarted"]
+- ["SQ", "unknown"]
+- !private ["SQ", "utf8"]
+- !private ["s5ErrorP", "clientJSONError"]
+- !private ["s5ErrorP", "rtmConnectionError"]
+- !private ["6SKCore5EventC", "init"]
+- !private ["6SKCore5EventC", "replyTo"]
+- !private ["6SKCore5EventC", "type"]
+- ["6SKCore9EventTypeO", "error"]
+- ["6SKCore9EventTypeO", "goodbye"]
+- ["6SKCore9EventTypeO", "hello"]
+- ["6SKCore9EventTypeO", "pong"]
+- ["6SKCore9EventTypeO", "teamMigrationStarted"]
+- ["6SKCore9EventTypeO", "unknown"]
+- !private ["s25ExpressibleByArrayLiteralP", "allowFragments"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "data"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "nanosecondsPerSecond"]
+- !private ["s23ExpressibleByNilLiteralP", "unknown"]
+- !private ["s26ExpressibleByStringLiteralP", "Encoding"]
+- !private ["s26ExpressibleByStringLiteralP", "data"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "Encoding"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "data"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s17FixedWidthIntegerP", "nanosecondsPerSecond"]
+- !private ["SF", "init"]
+- !private ["SH", "Encoding"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "asyncAfter"]
+- !private ["SH", "clientJSONError"]
+- !private ["SH", "data"]
+- ["SH", "error"]
+- ["SH", "goodbye"]
+- ["SH", "hello"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "jsonObject"]
+- !private ["SH", "main"]
+- !private ["SH", "nanosecondsPerSecond"]
+- ["SH", "pong"]
+- !private ["SH", "rtmConnectionError"]
+- !private ["SH", "slackTimestamp"]
+- !private ["SH", "subscript"]
+- ["SH", "teamMigrationStarted"]
+- ["SH", "unknown"]
+- !private ["SH", "utf8"]
+- !private ["So19NSJSONSerializationC", "data"]
+- !private ["So19NSJSONSerializationC", "jsonObject"]
+- !private ["s25LosslessStringConvertibleP", "Encoding"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "data"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "nanosecondsPerSecond"]
+- !private ["s10MirrorPathP", "Encoding"]
+- !private ["s10MirrorPathP", "data"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "data"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So21NSItemProviderReadingP", "data"]
+- !private ["So21NSItemProviderWritingP", "data"]
+- !private ["So16NSMutableCopyingP", "data"]
+- !private ["So8NSObjectC", "asyncAfter"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "jsonObject"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectP", "asyncAfter"]
+- !private ["So8NSObjectP", "data"]
+- !private ["So8NSObjectP", "jsonObject"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So14NSSecureCodingP", "data"]
+- !private ["So8NSStringC", "data"]
+- !private ["Sj", "init"]
+- !private ["Sj", "nanosecondsPerSecond"]
+- !private ["So9OS_objectC", "asyncAfter"]
+- !private ["So9OS_objectC", "main"]
+- !private ["s9OptionSetP", "allowFragments"]
+- !private ["Sq", "unknown"]
+- ["8SKRTMAPI10RTMAdapterP", "Error"]
+- ["8SKRTMAPI10RTMAdapterP", "Event"]
+- ["8SKRTMAPI10RTMAdapterP", "EventType"]
+- ["8SKRTMAPI10RTMAdapterP", "SKRTMAPI"]
+- ["8SKRTMAPI10RTMAdapterP", "String"]
+- ["8SKRTMAPI10RTMAdapterP", "connectionClosed"]
+- ["8SKRTMAPI10RTMAdapterP", "initialSetup"]
+- ["8SKRTMAPI10RTMAdapterP", "notificationForEvent"]
+- !private ["8SKRTMAPI11RTMDelegateP", "Date"]
+- !private ["8SKRTMAPI11RTMDelegateP", "DispatchQueue"]
+- !private ["8SKRTMAPI11RTMDelegateP", "DispatchTime"]
+- !private ["8SKRTMAPI11RTMDelegateP", "Double"]
+- !private ["8SKRTMAPI11RTMDelegateP", "Event"]
+- !private ["8SKRTMAPI11RTMDelegateP", "JSONSerialization"]
+- !private ["8SKRTMAPI11RTMDelegateP", "RTMOptions"]
+- !private ["8SKRTMAPI11RTMDelegateP", "SlackError"]
+- !private ["8SKRTMAPI11RTMDelegateP", "StarscreamRTM"]
+- ["8SKRTMAPI11RTMDelegateP", "String"]
+- !private ["8SKRTMAPI11RTMDelegateP", "UInt64"]
+- !private ["8SKRTMAPI11RTMDelegateP", "URL"]
+- !private ["8SKRTMAPI11RTMDelegateP", "WebAPI"]
+- ["8SKRTMAPI11RTMDelegateP", ""]
+- !private ["8SKRTMAPI11RTMDelegateP", "adapter"]
+- !private ["8SKRTMAPI11RTMDelegateP", "connect"]
+- !private ["8SKRTMAPI11RTMDelegateP", "connectWithResponse"]
+- !private ["8SKRTMAPI11RTMDelegateP", "connected"]
+- ["8SKRTMAPI11RTMDelegateP", "didConnect"]
+- !private ["8SKRTMAPI11RTMDelegateP", "disconnect"]
+- ["8SKRTMAPI11RTMDelegateP", "disconnected"]
+- !private ["8SKRTMAPI11RTMDelegateP", "dispatch"]
+- !private ["8SKRTMAPI11RTMDelegateP", "filterNilParameters"]
+- !private ["8SKRTMAPI11RTMDelegateP", "format"]
+- !private ["8SKRTMAPI11RTMDelegateP", "isConnectionTimedOut"]
+- !private ["8SKRTMAPI11RTMDelegateP", "options"]
+- !private ["8SKRTMAPI11RTMDelegateP", "ping"]
+- !private ["8SKRTMAPI11RTMDelegateP", "pingRTMServer"]
+- !private ["8SKRTMAPI11RTMDelegateP", "pong"]
+- !private ["8SKRTMAPI11RTMDelegateP", "print"]
+- ["8SKRTMAPI11RTMDelegateP", "receivedMessage"]
+- !private ["8SKRTMAPI11RTMDelegateP", "rtm"]
+- !private ["8SKRTMAPI11RTMDelegateP", "sendRTMPing"]
+- !private ["8SKRTMAPI11RTMDelegateP", "token"]
+- !private ["6SKCore10RTMOptionsV", "batchPresenceAware"]
+- !private ["6SKCore10RTMOptionsV", "init"]
+- !private ["6SKCore10RTMOptionsV", "mpimAware"]
+- !private ["6SKCore10RTMOptionsV", "noLatest"]
+- !private ["6SKCore10RTMOptionsV", "noUnreads"]
+- !private ["6SKCore10RTMOptionsV", "pingInterval"]
+- !private ["6SKCore10RTMOptionsV", "presenceSub"]
+- !private ["6SKCore10RTMOptionsV", "reconnect"]
+- !private ["6SKCore10RTMOptionsV", "simpleLatest"]
+- !private ["6SKCore10RTMOptionsV", "timeout"]
+- ["8SKRTMAPI12RTMWebSocketP", "RTMDelegate"]
+- ["8SKRTMAPI12RTMWebSocketP", "String"]
+- ["8SKRTMAPI12RTMWebSocketP", "URL"]
+- ["8SKRTMAPI12RTMWebSocketP", "connect"]
+- ["8SKRTMAPI12RTMWebSocketP", "delegate"]
+- ["8SKRTMAPI12RTMWebSocketP", "disconnect"]
+- ["8SKRTMAPI12RTMWebSocketP", "init"]
+- ["8SKRTMAPI12RTMWebSocketP", "sendMessage"]
+- !private ["Sm", "Encoding"]
+- !private ["Sm", "data"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["SY", "allowFragments"]
+- !private ["SY", "clientJSONError"]
+- ["SY", "error"]
+- ["SY", "goodbye"]
+- ["SY", "hello"]
+- ["SY", "pong"]
+- !private ["SY", "rtmConnectionError"]
+- ["SY", "teamMigrationStarted"]
+- ["SY", "unknown"]
+- !private ["SY", "utf8"]
+- !private ["So20NSJSONReadingOptionsV", "allowFragments"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "slackTimestamp"]
+- ["8SKRTMAPIAAC", "Bool"]
+- !private ["8SKRTMAPIAAC", "Date"]
+- !private ["8SKRTMAPIAAC", "DispatchQueue"]
+- !private ["8SKRTMAPIAAC", "DispatchTime"]
+- ["8SKRTMAPIAAC", "Double"]
+- !private ["8SKRTMAPIAAC", "Event"]
+- !private ["8SKRTMAPIAAC", "JSONSerialization"]
+- ["8SKRTMAPIAAC", "RTMAdapter"]
+- ["8SKRTMAPIAAC", "RTMOptions"]
+- ["8SKRTMAPIAAC", "RTMWebSocket"]
+- !private ["8SKRTMAPIAAC", "SlackError"]
+- !private ["8SKRTMAPIAAC", "StarscreamRTM"]
+- ["8SKRTMAPIAAC", "String"]
+- !private ["8SKRTMAPIAAC", "UInt64"]
+- !private ["8SKRTMAPIAAC", "URL"]
+- !private ["8SKRTMAPIAAC", "WebAPI"]
+- ["8SKRTMAPIAAC", "adapter"]
+- ["8SKRTMAPIAAC", "connect"]
+- !private ["8SKRTMAPIAAC", "connectWithResponse"]
+- ["8SKRTMAPIAAC", "connected"]
+- ["8SKRTMAPIAAC", "deinit"]
+- ["8SKRTMAPIAAC", "didConnect"]
+- ["8SKRTMAPIAAC", "disconnect"]
+- ["8SKRTMAPIAAC", "disconnected"]
+- ["8SKRTMAPIAAC", "dispatch"]
+- !private ["8SKRTMAPIAAC", "filterNilParameters"]
+- !private ["8SKRTMAPIAAC", "format"]
+- ["8SKRTMAPIAAC", "init"]
+- ["8SKRTMAPIAAC", "isConnectionTimedOut"]
+- ["8SKRTMAPIAAC", "options"]
+- ["8SKRTMAPIAAC", "ping"]
+- !private ["8SKRTMAPIAAC", "pingRTMServer"]
+- ["8SKRTMAPIAAC", "pong"]
+- !private ["8SKRTMAPIAAC", "print"]
+- ["8SKRTMAPIAAC", "receivedMessage"]
+- ["8SKRTMAPIAAC", "rtm"]
+- ["8SKRTMAPIAAC", "sendMessage"]
+- !private ["8SKRTMAPIAAC", "sendRTMPing"]
+- ["8SKRTMAPIAAC", "sendThreadedMessage"]
+- ["8SKRTMAPIAAC", "token"]
+- !private ["ST", "Encoding"]
+- !private ["ST", "data"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s10SetAlgebraP", "allowFragments"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["6SKCore10SlackErrorO", "clientJSONError"]
+- !private ["6SKCore10SlackErrorO", "rtmConnectionError"]
+- !private ["8SKRTMAPI13StarscreamRTMC", "deinit"]
+- !private ["8SKRTMAPI13StarscreamRTMC", "init"]
+- !private ["Sx", "init"]
+- !private ["Sx", "nanosecondsPerSecond"]
+- !private ["SS", "Encoding"]
+- !private ["SS", "data"]
+- ["SS", "init"]
+- ["SS", "init"]
+- !private ["Sy", "Encoding"]
+- !private ["Sy", "data"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- !private ["s16TextOutputStreamP", "Encoding"]
+- !private ["s16TextOutputStreamP", "data"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "Encoding"]
+- !private ["s20TextOutputStreamableP", "data"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s6UInt64V", "init"]
+- !private ["s6UInt64V", "nanosecondsPerSecond"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["SU", "init"]
+- !private ["SU", "nanosecondsPerSecond"]
+- !private ["8SKWebAPI03WebB0C", "rtmConnect"]
+- !private ["8SKWebAPI03WebB0C", "rtmStart"]
+- !private ["10Starscream17WebSocketDelegateP", "init"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s18_BitwiseOperationsP", "nanosecondsPerSecond"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "nanosecondsPerSecond"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "Encoding"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "data"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "nanosecondsPerSecond"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "Encoding"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "data"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "Encoding"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "data"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "Encoding"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "data"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "Encoding"]
+- !private ["s33_ExpressibleByStringInterpolationP", "data"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "data"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "nanosecondsPerSecond"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "asyncAfter"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "jsonObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["s21_ObjectiveCBridgeableP", "Encoding"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "data"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "nanosecondsPerSecond"]
+- !private ["s21_ObjectiveCBridgeableP", "slackTimestamp"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "unknown"]
+- !private ["s16_SwiftStringViewP", "Encoding"]
+- !private ["s16_SwiftStringViewP", "data"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "SK"
+- !private "SB"
+- !private "Sz"
+- !private "Sb"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation4DateV"
+- "Se"
+- !private "SD"
+- !private "So18OS_dispatch_objectC"
+- !private "So17OS_dispatch_queueC"
+- !private "8Dispatch0A4TimeV"
+- !private "Sd"
+- "SE"
+- !private "SS10FoundationE8EncodingV"
+- "SQ"
+- !private "s5ErrorP"
+- !private "6SKCore5EventC"
+- "6SKCore9EventTypeO"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SF"
+- "SH"
+- !private "So19NSJSONSerializationC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "Sj"
+- !private "So9OS_objectC"
+- !private "s9OptionSetP"
+- !private "Sq"
+- "8SKRTMAPI10RTMAdapterP"
+- "8SKRTMAPI11RTMDelegateP"
+- !private "6SKCore10RTMOptionsV"
+- "8SKRTMAPI12RTMWebSocketP"
+- "Sm"
+- "SY"
+- !private "So20NSJSONReadingOptionsV"
+- !private "10Foundation20ReferenceConvertibleP"
+- "8SKRTMAPIAAC"
+- "ST"
+- !private "s10SetAlgebraP"
+- !private "s13SignedNumericP"
+- !private "6SKCore10SlackErrorO"
+- !private "8SKRTMAPI13StarscreamRTMC"
+- !private "Sx"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s6UInt64V"
+- !private "10Foundation3URLV"
+- !private "SU"
+- !private "8SKWebAPI03WebB0C"
+- !private "10Starscream17WebSocketDelegateP"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/Starscream.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "eb924f2b83dfeb6f9fd0eba2a93c4e36"

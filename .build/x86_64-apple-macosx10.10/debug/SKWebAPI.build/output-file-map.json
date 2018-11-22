@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/master.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/Endpoint.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/Endpoint.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/Endpoint.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/Endpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/Endpoint.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/NetworkInterface.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/NetworkInterface.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/NetworkInterface.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/NetworkInterface~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/NetworkInterface.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/WebAPI.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/WebAPI.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/WebAPI.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/WebAPI~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKWebAPI.build/WebAPI.swiftdeps"
+  }
+}

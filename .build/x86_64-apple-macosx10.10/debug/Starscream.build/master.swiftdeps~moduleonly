@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3640115053a724286593296dcba6ac18"
+build_time: [1542846048, 706708000]
+inputs:
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/Starscream--5782463934177173378/Sources/Starscream/Compression.swift": [1542846045, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/Starscream--5782463934177173378/Sources/Starscream/SSLClientCertificate.swift": [1542846045, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/Starscream--5782463934177173378/Sources/Starscream/SSLSecurity.swift": [1542846045, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/Starscream--5782463934177173378/Sources/Starscream/WebSocket.swift": [1542846045, 0]

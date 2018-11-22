@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6f8bee795096db2ed1567ac83beb617a"
+build_time: [1542846068, 337299000]
+inputs:
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/BillboardManager.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/ChartEntry.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/ChartEnums.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/ChartGateway.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/ChartParser.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/ChartRequests.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/BillboardSwiftLibrary.git--4997012217257582635/Sources/Result.swift": [1542846046, 0]

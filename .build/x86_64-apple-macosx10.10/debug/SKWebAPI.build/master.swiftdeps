@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ee3b36aa54c370b86eb06ad96fc49630"
+build_time: [1542846060, 935237000]
+inputs:
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/Endpoint.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/NetworkInterface.swift": [1542846046, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKWebAPI--7619532856820863699/Sources/WebAPI.swift": [1542846046, 0]

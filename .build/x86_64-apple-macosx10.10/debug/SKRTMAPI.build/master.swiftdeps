@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5726b38c6756582d9a5a91fcc4e9141d"
+build_time: [1542846065, 121517000]
+inputs:
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKRTMAPI-4309226420096801345/Sources/SKRTMAPI/Conformers/StarscreamRTM.swift": [1542846045, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKRTMAPI-4309226420096801345/Sources/SKRTMAPI/Conformers/VaporEngineRTM.swift": [1542846045, 0]
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKRTMAPI-4309226420096801345/Sources/SKRTMAPI/SKRTMAPI.swift": [1542846045, 0]

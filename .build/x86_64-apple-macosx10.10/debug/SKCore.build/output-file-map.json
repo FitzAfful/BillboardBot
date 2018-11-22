@@ -1,0 +1,167 @@
+{
+  "": {
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/master.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Action.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Action.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Action.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Action~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Action.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Attachment.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Attachment.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Attachment.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Attachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Attachment.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/AttachmentField.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/AttachmentField.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/AttachmentField.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/AttachmentField~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/AttachmentField.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Bot.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Bot.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Bot.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Bot~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Bot.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Channel.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Channel.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Channel.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Channel~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Channel.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Comment.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Comment.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Comment.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Comment~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Comment.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/CustomProfile.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfile.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/CustomProfile.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfile~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfile.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/CustomProfileField.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfileField.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/CustomProfileField.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfileField~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/CustomProfileField.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/DoNotDisturbStatus.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/DoNotDisturbStatus.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/DoNotDisturbStatus.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/DoNotDisturbStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/DoNotDisturbStatus.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Edited.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Edited.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Edited.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Edited~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Edited.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Event.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Event.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Event.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Event~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Event.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Extensions.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Extensions.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Extensions.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Extensions~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Extensions.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/File.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/File.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/File.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/File~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/File.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/History.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/History.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/History.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/History~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/History.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Item.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Item.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Item.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Item~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Item.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Message.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Message.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Message.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Message~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Message.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/OAuthConfig.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/OAuthConfig.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/OAuthConfig.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/OAuthConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/OAuthConfig.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/RTMOptions.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/RTMOptions.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/RTMOptions.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/RTMOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/RTMOptions.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Reaction.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reaction.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Reaction.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reaction~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reaction.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Reply.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reply.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Reply.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reply~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Reply.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Scope.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Scope.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Scope.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Scope~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Scope.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/SlackError.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SlackError.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/SlackError.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SlackError~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SlackError.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Team.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Team.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Team.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Team~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Team.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/TeamIcon.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/TeamIcon.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/TeamIcon.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/TeamIcon~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/TeamIcon.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/Topic.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Topic.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/Topic.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Topic~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/Topic.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/User.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/User.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/User.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/User~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/User.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKCore--6830632407157399005/Sources/SKCore/UserGroup.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/UserGroup.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/SKCore/UserGroup.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/UserGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKCore.build/UserGroup.swiftdeps"
+  }
+}

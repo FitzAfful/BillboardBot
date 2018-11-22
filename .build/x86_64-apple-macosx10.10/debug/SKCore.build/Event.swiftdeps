@@ -1,0 +1,406 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "EventType"
+- "MessageSubtype"
+- "Event"
+provides-nominal:
+- "6SKCore9EventTypeO"
+- "6SKCore14MessageSubtypeO"
+- "6SKCore5EventC"
+provides-member:
+- ["6SKCore9EventTypeO", ""]
+- ["6SKCore14MessageSubtypeO", ""]
+- ["6SKCore5EventC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "??"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "Bot"
+- "CastingPrecedence"
+- "Channel"
+- "Comment"
+- "CustomProfile"
+- "DoNotDisturbStatus"
+- "Double"
+- "Edited"
+- "Event"
+- "EventType"
+- "File"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Item"
+- "Message"
+- "MessageSubtype"
+- "String"
+- "StringLiteralType"
+- "User"
+- "UserGroup"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["6SKCore3BotV", "init"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["6SKCore7ChannelV", "init"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "subscript"]
+- !private ["6SKCore7CommentV", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["6SKCore13CustomProfileV", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "subscript"]
+- !private ["SD", "subscript"]
+- !private ["6SKCore18DoNotDisturbStatusV", "init"]
+- !private ["6SKCore6EditedV", "init"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "subscript"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- !private ["SQ", "subscript"]
+- ["6SKCore5EventC", "Bool"]
+- ["6SKCore5EventC", "Bot"]
+- ["6SKCore5EventC", "Channel"]
+- ["6SKCore5EventC", "Comment"]
+- ["6SKCore5EventC", "CustomProfile"]
+- ["6SKCore5EventC", "DoNotDisturbStatus"]
+- ["6SKCore5EventC", "Double"]
+- ["6SKCore5EventC", "Edited"]
+- ["6SKCore5EventC", "EventType"]
+- ["6SKCore5EventC", "File"]
+- ["6SKCore5EventC", "Item"]
+- ["6SKCore5EventC", "Message"]
+- ["6SKCore5EventC", "String"]
+- ["6SKCore5EventC", "User"]
+- ["6SKCore5EventC", "UserGroup"]
+- ["6SKCore5EventC", "bot"]
+- ["6SKCore5EventC", "channel"]
+- ["6SKCore5EventC", "channelID"]
+- ["6SKCore5EventC", "comment"]
+- ["6SKCore5EventC", "dndStatus"]
+- ["6SKCore5EventC", "domain"]
+- ["6SKCore5EventC", "edited"]
+- ["6SKCore5EventC", "emailDomain"]
+- ["6SKCore5EventC", "eventTs"]
+- ["6SKCore5EventC", "file"]
+- ["6SKCore5EventC", "fileID"]
+- ["6SKCore5EventC", "hasPins"]
+- ["6SKCore5EventC", "hidden"]
+- ["6SKCore5EventC", "init"]
+- ["6SKCore5EventC", "isStarred"]
+- ["6SKCore5EventC", "item"]
+- ["6SKCore5EventC", "itemUser"]
+- ["6SKCore5EventC", "latest"]
+- ["6SKCore5EventC", "message"]
+- ["6SKCore5EventC", "name"]
+- ["6SKCore5EventC", "nestedMessage"]
+- ["6SKCore5EventC", "pinnedTo"]
+- ["6SKCore5EventC", "plan"]
+- ["6SKCore5EventC", "presence"]
+- ["6SKCore5EventC", "profile"]
+- ["6SKCore5EventC", "reaction"]
+- ["6SKCore5EventC", "reactions"]
+- ["6SKCore5EventC", "replyTo"]
+- ["6SKCore5EventC", "subteam"]
+- ["6SKCore5EventC", "subteamID"]
+- ["6SKCore5EventC", "subtype"]
+- ["6SKCore5EventC", "text"]
+- ["6SKCore5EventC", "ts"]
+- ["6SKCore5EventC", "type"]
+- ["6SKCore5EventC", "url"]
+- ["6SKCore5EventC", "user"]
+- ["6SKCore5EventC", "value"]
+- ["6SKCore9EventTypeO", "RawValue"]
+- ["6SKCore9EventTypeO", "_Default_RawValue"]
+- !private ["6SKCore9EventTypeO", "_findStringSwitchCase"]
+- ["6SKCore9EventTypeO", "accountsChanged"]
+- ["6SKCore9EventTypeO", "botAdded"]
+- ["6SKCore9EventTypeO", "botChanged"]
+- ["6SKCore9EventTypeO", "channelArchive"]
+- ["6SKCore9EventTypeO", "channelCreated"]
+- ["6SKCore9EventTypeO", "channelDeleted"]
+- ["6SKCore9EventTypeO", "channelHistoryChanged"]
+- ["6SKCore9EventTypeO", "channelJoined"]
+- ["6SKCore9EventTypeO", "channelLeft"]
+- ["6SKCore9EventTypeO", "channelMarked"]
+- ["6SKCore9EventTypeO", "channelRenamed"]
+- ["6SKCore9EventTypeO", "channelUnarchive"]
+- ["6SKCore9EventTypeO", "commandsChanged"]
+- ["6SKCore9EventTypeO", "deinit"]
+- ["6SKCore9EventTypeO", "dndUpatedUser"]
+- ["6SKCore9EventTypeO", "dndUpdated"]
+- ["6SKCore9EventTypeO", "emailDomainChange"]
+- ["6SKCore9EventTypeO", "emojiChanged"]
+- ["6SKCore9EventTypeO", "error"]
+- ["6SKCore9EventTypeO", "fileChanged"]
+- ["6SKCore9EventTypeO", "fileCommentAdded"]
+- ["6SKCore9EventTypeO", "fileCommentDeleted"]
+- ["6SKCore9EventTypeO", "fileCommentEdited"]
+- ["6SKCore9EventTypeO", "fileCreated"]
+- ["6SKCore9EventTypeO", "fileDeleted"]
+- ["6SKCore9EventTypeO", "filePrivate"]
+- ["6SKCore9EventTypeO", "filePublic"]
+- ["6SKCore9EventTypeO", "fileShared"]
+- ["6SKCore9EventTypeO", "fileUnshared"]
+- ["6SKCore9EventTypeO", "goodbye"]
+- ["6SKCore9EventTypeO", "groupArchive"]
+- ["6SKCore9EventTypeO", "groupClose"]
+- ["6SKCore9EventTypeO", "groupHistoryChanged"]
+- ["6SKCore9EventTypeO", "groupJoined"]
+- ["6SKCore9EventTypeO", "groupLeft"]
+- ["6SKCore9EventTypeO", "groupMarked"]
+- ["6SKCore9EventTypeO", "groupOpen"]
+- ["6SKCore9EventTypeO", "groupRename"]
+- ["6SKCore9EventTypeO", "groupUnarchive"]
+- ["6SKCore9EventTypeO", "hash"]
+- ["6SKCore9EventTypeO", "hashValue"]
+- ["6SKCore9EventTypeO", "hello"]
+- ["6SKCore9EventTypeO", "imClose"]
+- ["6SKCore9EventTypeO", "imCreated"]
+- ["6SKCore9EventTypeO", "imHistoryChanged"]
+- ["6SKCore9EventTypeO", "imMarked"]
+- ["6SKCore9EventTypeO", "imOpen"]
+- ["6SKCore9EventTypeO", "init"]
+- ["6SKCore9EventTypeO", "manualPresenceChange"]
+- ["6SKCore9EventTypeO", "message"]
+- ["6SKCore9EventTypeO", "ok"]
+- ["6SKCore9EventTypeO", "pinAdded"]
+- ["6SKCore9EventTypeO", "pinRemoved"]
+- ["6SKCore9EventTypeO", "pong"]
+- ["6SKCore9EventTypeO", "prefChange"]
+- ["6SKCore9EventTypeO", "presenceChange"]
+- ["6SKCore9EventTypeO", "rawValue"]
+- ["6SKCore9EventTypeO", "reactionAdded"]
+- ["6SKCore9EventTypeO", "reactionRemoved"]
+- ["6SKCore9EventTypeO", "reconnectURL"]
+- ["6SKCore9EventTypeO", "starAdded"]
+- ["6SKCore9EventTypeO", "starRemoved"]
+- ["6SKCore9EventTypeO", "subteamCreated"]
+- ["6SKCore9EventTypeO", "subteamSelfAdded"]
+- ["6SKCore9EventTypeO", "subteamSelfRemoved"]
+- ["6SKCore9EventTypeO", "subteamUpdated"]
+- ["6SKCore9EventTypeO", "teamDomainChange"]
+- ["6SKCore9EventTypeO", "teamJoin"]
+- ["6SKCore9EventTypeO", "teamMigrationStarted"]
+- ["6SKCore9EventTypeO", "teamPlanChange"]
+- ["6SKCore9EventTypeO", "teamPrefChange"]
+- ["6SKCore9EventTypeO", "teamProfileChange"]
+- ["6SKCore9EventTypeO", "teamProfileDelete"]
+- ["6SKCore9EventTypeO", "teamProfileReorder"]
+- ["6SKCore9EventTypeO", "teamRename"]
+- ["6SKCore9EventTypeO", "unknown"]
+- ["6SKCore9EventTypeO", "userChange"]
+- ["6SKCore9EventTypeO", "userTyping"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["6SKCore4FileV", "init"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- !private ["SH", "subscript"]
+- !private ["s6HasherV", "combine"]
+- !private ["6SKCore4ItemV", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["6SKCore7MessageC", "init"]
+- ["6SKCore14MessageSubtypeO", "RawValue"]
+- ["6SKCore14MessageSubtypeO", "_Default_RawValue"]
+- !private ["6SKCore14MessageSubtypeO", "_findStringSwitchCase"]
+- ["6SKCore14MessageSubtypeO", "botMessage"]
+- ["6SKCore14MessageSubtypeO", "channelArchive"]
+- ["6SKCore14MessageSubtypeO", "channelJoin"]
+- ["6SKCore14MessageSubtypeO", "channelLeave"]
+- ["6SKCore14MessageSubtypeO", "channelName"]
+- ["6SKCore14MessageSubtypeO", "channelPurpose"]
+- ["6SKCore14MessageSubtypeO", "channelTopic"]
+- ["6SKCore14MessageSubtypeO", "channelUnarchive"]
+- ["6SKCore14MessageSubtypeO", "deinit"]
+- ["6SKCore14MessageSubtypeO", "fileComment"]
+- ["6SKCore14MessageSubtypeO", "fileMention"]
+- ["6SKCore14MessageSubtypeO", "fileShare"]
+- ["6SKCore14MessageSubtypeO", "groupArchive"]
+- ["6SKCore14MessageSubtypeO", "groupJoin"]
+- ["6SKCore14MessageSubtypeO", "groupLeave"]
+- ["6SKCore14MessageSubtypeO", "groupName"]
+- ["6SKCore14MessageSubtypeO", "groupPurpose"]
+- ["6SKCore14MessageSubtypeO", "groupTopic"]
+- ["6SKCore14MessageSubtypeO", "groupUnarchive"]
+- ["6SKCore14MessageSubtypeO", "hash"]
+- ["6SKCore14MessageSubtypeO", "hashValue"]
+- ["6SKCore14MessageSubtypeO", "init"]
+- ["6SKCore14MessageSubtypeO", "meMessage"]
+- ["6SKCore14MessageSubtypeO", "messageChanged"]
+- ["6SKCore14MessageSubtypeO", "messageDeleted"]
+- ["6SKCore14MessageSubtypeO", "messageReplied"]
+- ["6SKCore14MessageSubtypeO", "pinnedItem"]
+- ["6SKCore14MessageSubtypeO", "rawValue"]
+- ["6SKCore14MessageSubtypeO", "replyBroadcast"]
+- ["6SKCore14MessageSubtypeO", "unpinnedItem"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "subscript"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["6SKCore4UserV", "init"]
+- !private ["6SKCore9UserGroupV", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "SK"
+- !private "Sb"
+- !private "6SKCore3BotV"
+- "s7CVarArgP"
+- !private "6SKCore7ChannelV"
+- "Sl"
+- !private "6SKCore7CommentV"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- !private "6SKCore13CustomProfileV"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "SD"
+- !private "6SKCore18DoNotDisturbStatusV"
+- !private "6SKCore6EditedV"
+- "SE"
+- "SQ"
+- "6SKCore5EventC"
+- "6SKCore9EventTypeO"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "6SKCore4FileV"
+- "SH"
+- !private "s6HasherV"
+- !private "6SKCore4ItemV"
+- "s25LosslessStringConvertibleP"
+- !private "6SKCore7MessageC"
+- "6SKCore14MessageSubtypeO"
+- "s10MirrorPathP"
+- "Sm"
+- "SY"
+- "ST"
+- !private "s12StaticStringV"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "6SKCore4UserV"
+- !private "6SKCore9UserGroupV"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "d0be6984949d95197a48b994724971a1"

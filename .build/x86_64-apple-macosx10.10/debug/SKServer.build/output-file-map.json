@@ -1,0 +1,221 @@
+{
+  "": {
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/master.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Conformers/SwifterServer.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SwifterServer.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Conformers/SwifterServer.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SwifterServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SwifterServer.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Middleware/MessageActionMiddleware.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionMiddleware.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Middleware/MessageActionMiddleware.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionMiddleware.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Middleware/OAuthMiddleware.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthMiddleware.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Middleware/OAuthMiddleware.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthMiddleware.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Middleware/RedirectMiddleware.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RedirectMiddleware.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Middleware/RedirectMiddleware.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RedirectMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RedirectMiddleware.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Middleware/ResponseMiddleware.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/ResponseMiddleware.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Middleware/ResponseMiddleware.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/ResponseMiddleware~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/ResponseMiddleware.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/AuthorizeResponse.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/AuthorizeResponse.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/AuthorizeResponse.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/AuthorizeResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/AuthorizeResponse.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/IncomingWebhook.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/IncomingWebhook.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/IncomingWebhook.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/IncomingWebhook~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/IncomingWebhook.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/MessageActionRequest.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRequest.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/MessageActionRequest.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRequest.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/MessageActionRoute.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRoute.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/MessageActionRoute.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRoute~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/MessageActionRoute.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/OAuthResponse.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthResponse.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/OAuthResponse.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/OAuthResponse.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/RequestRoute.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RequestRoute.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/RequestRoute.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RequestRoute~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/RequestRoute.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/SKResponse.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKResponse.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/SKResponse.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKResponse.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Model/WebhookRequest.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/WebhookRequest.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Model/WebhookRequest.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/WebhookRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/WebhookRequest.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/SKServer.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/SKServer.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/SlackKitResponder.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SlackKitResponder.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/SlackKitResponder.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SlackKitResponder~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SlackKitResponder.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/Titan/Titan.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/Titan/Titan.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/Titan404/Titan404.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan404.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/Titan404/Titan404.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan404~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/Titan404.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCORS/TitanCORS.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCORS.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCORS/TitanCORS.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCORS~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCORS.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanCore.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCore.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanCore.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCore~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanCore.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanError.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanError.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanError.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanError~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanError.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanHeader.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHeader.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanHeader.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHeader~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHeader.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanLogs.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanLogs.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanLogs.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanLogs~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanLogs.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanMethod.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanMethod.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanMethod.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanMethod.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanRequest.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRequest.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanRequest.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRequest.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanCore/TitanResponse.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanResponse.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanCore/TitanResponse.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanResponse.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanErrorHandling/TitanErrorHandling.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanErrorHandling.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanErrorHandling/TitanErrorHandling.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanErrorHandling~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanErrorHandling.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanFormURLEncodedBodyParser/TitanFormURLEncodedBodyParser.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanFormURLEncodedBodyParser.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanFormURLEncodedBodyParser/TitanFormURLEncodedBodyParser.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanFormURLEncodedBodyParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanFormURLEncodedBodyParser.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanHealthz/TitanHealthz.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHealthz.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanHealthz/TitanHealthz.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHealthz~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanHealthz.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanJSON/TitanJSONRequestBody.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONRequestBody.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanJSON/TitanJSONRequestBody.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONRequestBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONRequestBody.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanJSON/TitanJSONResponseBody.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONResponseBody.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanJSON/TitanJSONResponseBody.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONResponseBody~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanJSONResponseBody.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanQueryString/TitanQueryString.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanQueryString.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanQueryString/TitanQueryString.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanQueryString~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanQueryString.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanRouter/InitializerOverloads.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/InitializerOverloads.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanRouter/InitializerOverloads.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/InitializerOverloads~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/InitializerOverloads.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanRouter/PathParameterSupport.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/PathParameterSupport.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanRouter/PathParameterSupport.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/PathParameterSupport~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/PathParameterSupport.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanRouter/TitanParameterizedRoutes.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanParameterizedRoutes.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanRouter/TitanParameterizedRoutes.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanParameterizedRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanParameterizedRoutes.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanRouter/TitanRoutesByMethod.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutesByMethod.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanRouter/TitanRoutesByMethod.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutesByMethod~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutesByMethod.swiftdeps"
+  },
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKServer-6818004719668748587/Sources/SKServer/Titan/TitanRouter/TitanRoutingExtension.swift": {
+    "dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutingExtension.d",
+    "object": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/SKServer/Titan/TitanRouter/TitanRoutingExtension.swift.o",
+    "swiftmodule": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutingExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/x86_64-apple-macosx10.10/debug/SKServer.build/TitanRoutingExtension.swiftdeps"
+  }
+}

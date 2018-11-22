@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "afd63aaadc01c5c02334d5089d9e3f28"
+build_time: [1542846063, 951175000]
+inputs:
+  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SKClient--3969320625923873705/Sources/Client.swift": [1542846044, 0]
