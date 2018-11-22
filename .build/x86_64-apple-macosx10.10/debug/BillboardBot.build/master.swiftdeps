@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "c1f8da3a07f49a723db57111544b27c0"
-build_time: [1542846564, 103413000]
-inputs:
-  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/BillboardBot/main.swift": [1542846126, 0]

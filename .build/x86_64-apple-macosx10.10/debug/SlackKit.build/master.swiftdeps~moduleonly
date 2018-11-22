@@ -1,6 +1,0 @@
-version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
-options: "e880580950b1e839430b07259b776304"
-build_time: [1542846067, 836073000]
-inputs:
-  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SlackKit.git-3523471640495852276/Sources/ClientConnection.swift": [1542846046, 0]
-  "/Users/PaaQuesiAfful/iOS Projects/BillboardBot/.build/checkouts/SlackKit.git-3523471640495852276/Sources/SlackKit.swift": [1542846046, 0]
