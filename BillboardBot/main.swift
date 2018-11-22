@@ -52,8 +52,8 @@ class BillboardChartsBot {
 		if let text = message.text?.lowercased(), let _ = message.ts, let channel = message.channel {
 			
 			var chartType: ChartType!
-			print(text)
-			switch (text.lowercased()){
+			let myText = text.lowercased().components(separatedBy: " ")[1]
+			switch (myText){
 			case "hot100":
 				chartType = ChartType.hot100
 			case "billboard200":
@@ -87,7 +87,7 @@ class BillboardChartsBot {
 					self.bot.webAPI?.sendMessage(channel: channel, text: "Could not return chart. Please try again later.", success: nil, failure: nil)
 					return
 				}
-				var chartToReturn: String = "* Today's " + text + "*\n"
+				var chartToReturn: String = "* Today's " + myText + " Billboard Chart*\n"
 				for item in entries! {
 					chartToReturn.append("\(item.rank) \(item.artist) - \(item.title) - \(item.weeks) weeks\n")
 				}
